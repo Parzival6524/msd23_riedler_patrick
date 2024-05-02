@@ -3,8 +3,8 @@ Use:
 Wird benutzt, um die Einstellungen global als auch innerhalb eines Repositories zu verändern bzw. anzuschauen.
 Mögliche Parameter:
 
- ![Image](resources\images\ex2_01.jpg)
- ![Image](resources\images\ex2_02.jpg)
+ ![Image](resources/images/ex2_01.jpg)
+ ![Image](resources/images/ex2_02.jpg)
 Betroffene Daten:
 Meta-Informationen wie Benutzername, E-Mail-Adresse und Konfigurationseinstellungen.
  
@@ -16,7 +16,7 @@ Use:
 Wird benutzt, um ein neues Git-Repository zu initialisieren.
 Mögliche Parameter:
 
-![Image](resources\images\ex2_11.jpg)
+![Image](resources/images/ex2_11.jpg)
 
 Keine Parameter erforderlich, aber es gibt ein paar:
  Betroffene Daten:
@@ -30,8 +30,8 @@ Mit diesem Befehl werden Änderungen im Arbeitsverzeichnis in das Git-Repository
 Mögliche Parameter:
 Keine Parameter erforderlich, aber es gibt ein paar:
 
- ![Image](resources\images\ex2_21.jpg)
- ![Image](resources\images\ex2_22.jpg)
+ ![Image](resources/images/ex2_21.jpg)
+ ![Image](resources/images/ex2_22.jpg)
  
 Betroffene Daten:
 Das aktuelle Verzeichnis
@@ -73,7 +73,7 @@ Use:
 Mit diesem Befehl können die Unterschiede zwischen den Arbeitskopien und den Staging-Bereichen oder zwischen verschiedenen Commits angezeigt werden.
 Mögliche Parameter:
 
-![Image](resources\images\ex2_31.jpg)
+![Image](resources/images/ex2_31.jpg)
 
  Betroffene Daten:
 Die Unterschiede zwischen den verschiedenen Versionen der Dateien im Repository.
@@ -85,8 +85,8 @@ Use:
 Dieser Befehl holt Änderungen von einem entfernten Repository und führt ein Zusammenführen mit dem lokalen Branch durch.
 Mögliche Parameter:
 
- ![Image](resources\images\ex2_41.jpg)
- ![Image](resources\images\ex2_42.jpg)
+ ![Image](resources/images/ex2_41.jpg)
+ ![Image](resources/images/ex2_42.jpg)
  
 Betroffene Daten:
 Die Änderungen, die aus dem entfernten Repository geholt werden.

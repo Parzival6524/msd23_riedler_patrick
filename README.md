@@ -30,14 +30,14 @@ See below:
 
 ## Other Projects
 
-[Exercise1](Uebung_2/exercise1.md)
-[Exercise2](Uebung_2/exercise2.md)  This project is a simple introduction to git commands
+[Exercise1](Uebung_2/exercise1.md) <br>
+[Exercise2](Uebung_2/exercise2.md) This project is a simple introduction to git commands <br>
 
-**NOTE:** The rotation is based on the alphabet which means a rotation of 26 would lead to the same Ouput as the Input
+**NOTE:** The rotation is based on the alphabet which means a rotation of 26 would lead to the same Ouput as the Input <br>
 
-*This product was develpoed by Patrick Riedler*
-*Github: https://github.com/Parzival6524*
-*University: https://www.fh-joanneum.at*
-*Should you need further help or want to collaborate with me just contact me on discord :)*
-*Username:* **Patricio223**
-*Tag:* **#273819**
+*This product was develpoed by Patrick Riedler* <br>
+*Github: https://github.com/Parzival6524* <br>
+*University: https://www.fh-joanneum.at* <br>
+*Should you need further help or want to collaborate with me just contact me on discord :)* <br>
+*Username:* **Patricio223** <br>
+*Tag:* **#273819** <br>
