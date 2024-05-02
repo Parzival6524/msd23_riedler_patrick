@@ -36,6 +36,8 @@ See below:
 **NOTE:** The rotation is based on the alphabet which means a rotation of 26 would lead to the same Ouput as the Input
 
 *This product was develpoed by Patrick Riedler*
+*Github: https://github.com/Parzival6524*
+*University: https://www.fh-joanneum.at*
 *Should you need further help or want to collaborate with me just contact me on discord :)*
 *Username:* **Patricio223**
 *Tag:* **#273819**
