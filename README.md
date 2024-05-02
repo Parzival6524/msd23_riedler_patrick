@@ -30,8 +30,8 @@ See below:
 
 ## Other Projects
 
-[Exercise1](\Uebung_2\exercise1.md)
-[Exercise2](\Uebung_2\exercise2.md)  This project is a simple introduction to git commands
+[Exercise1](Uebung_2/exercise1.md)
+[Exercise2](Uebung_2/exercise2.md)  This project is a simple introduction to git commands
 
 **NOTE:** The rotation is based on the alphabet which means a rotation of 26 would lead to the same Ouput as the Input
 
