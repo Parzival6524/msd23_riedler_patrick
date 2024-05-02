@@ -1,6 +1,6 @@
 # Bowling
 
-![Image](resources\images\ex1_1.jpg)
+![Image](resources/images/ex1_1.jpg)
 *Source: [Wikipedia](https://de.wikipedia.org/wiki/Bowling)*
 
 ## About Bowling
