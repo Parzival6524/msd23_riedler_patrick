@@ -10,10 +10,14 @@ public class CalculatorTest {
     static Calculator calc;
     static double a = 3;
     static double b = 5;
+    static double c = -1;
     static double should;
     static double should2;
     static double should3;
     static double should4;
+    static double should5;
+    static double should6;
+    static double should7;
     static double is;
     static double is2;
     static double is3;
@@ -30,6 +34,9 @@ public class CalculatorTest {
         should2 = a - b;
         should3 = a * b;
         should4 = a / b;
+        should5 = 6;
+        should6 = 120;
+        should7 = 0;
     }
 
     @Test
@@ -54,5 +61,25 @@ public class CalculatorTest {
     void testDivide() {
         is4 = calc.divide(a,b);
         Assertions.assertEquals(should4,is4);
+    }
+
+    @Test
+    void testFactorial1() {
+        Assertions.assertEquals(should5,testFactorial(a));
+    }
+
+    @Test
+    void testFactorial2() {
+        Assertions.assertEquals(should6,testFactorial(b));
+    }
+
+    @Test
+    void testFactorial3() {
+        Assertions.assertEquals(should7,testFactorial(c));
+    }
+
+    public double testFactorial(double a) {
+        is = calc.factorial(a);
+        return is;
     }
 }
