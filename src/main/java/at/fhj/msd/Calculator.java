@@ -18,7 +18,17 @@ public class Calculator {
     }
 
     public long factorial(double a) {
-        return  0;
+        if (a < 0) {
+            return 0;
+        } else {
+            long result = 1;
+
+            for (int factor = 2; factor <= a; factor++) {
+                result *= factor;
+            }
+
+            return result;
+        }
     }
 }
 
