@@ -13,7 +13,7 @@ public class Calculator {
     }
 
     public double minus(double number1, double number2) {
-        logger.debug("Called Minus with parameters" + number1 + " - " + number2);
+        logger.debug("Called MINUS with parameters" + number1 + " - " + number2);
         return number1 - number2;
     }
 
