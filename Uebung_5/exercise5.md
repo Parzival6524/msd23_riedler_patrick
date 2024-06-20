@@ -1,6 +1,6 @@
 Übung 5:
 
-Logging Branch statud:
+Logging Branch status:
 
 ![Image](../resources/images/ex5_1.png)
 
