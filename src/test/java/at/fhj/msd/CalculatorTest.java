@@ -5,11 +5,13 @@ import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+import static org.junit.jupiter.api.Assertions.assertThrows;
+
 public class CalculatorTest {
 
     static Calculator calc;
     static double a = 3;
-    static double b = 5;
+    static double b = 0;
     static double c = -1;
     static double should;
     static double should2;
@@ -59,7 +61,9 @@ public class CalculatorTest {
 
     @Test
     void testDivide() {
-        is4 = calc.divide(a,b);
+        assertThrows(ArithmeticException.class, () -> {
+            is4 = calc.divide(a,b);
+        });
         Assertions.assertEquals(should4,is4);
     }
 
