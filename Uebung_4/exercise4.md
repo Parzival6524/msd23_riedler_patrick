@@ -1,6 +1,6 @@
 Übung 4:
 
-Testfälle:
+benutzte Testfälle:
 
 testAdd(): Testet ob soll und ist gleich sind bei der Addition 
 
